@@ -1,0 +1,34 @@
+body {
+    background-color: royalblue;
+    font-family: impact;
+}
+
+#yanni{
+    border-radius: 20px;
+}
+
+h2{
+    text-align: center;
+}
+
+h1{
+   text-align: center; 
+}
+
+.menu {
+     position: fixed;
+    background: White;
+    Target: _blank;
+}
+
+#Writings {
+    color: aqua;
+}
+
+.article {
+    text-align: center
+}
+
+h3{
+  text-align: center;  
+}
